@@ -10,5 +10,6 @@ namespace ConsoleApplication1
     {
         public string UserNames { get; set; }
         public string TelPhone { get; set; }
+        public string UserPwd { get; set; }
     }
 }
